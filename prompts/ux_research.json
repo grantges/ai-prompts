@@ -1,0 +1,46 @@
+{
+  "category": "UX Research",
+  "description": "Prompts to assist senior UX researchers in planning, conducting, and synthesizing user research effectively.",
+  "prompts": [
+    {
+      "title": "Research Planning & Scoping",
+      "prompt": "As a Senior UX Researcher, I want you to help me define the right research approach for this project. The product team needs clarity on user needs, pain points, and opportunities around {{topic}}. Suggest the most appropriate research method (e.g., usability testing, diary study, surveys, ethnography) given limited time and resources. Provide a research plan that includes objectives, participant criteria, timeline, and success measures."
+    },
+    {
+      "title": "Screener & Recruitment",
+      "prompt": "As a Senior UX Researcher, create a participant screener survey to recruit {{participant_count}} participants for {{study_type}}. The study should include both primary target users and edge cases. Ensure questions are unbiased, use clear language, and effectively filter for criteria such as {{criteria}}. Include both must-have and nice-to-have attributes."
+    },
+    {
+      "title": "Discussion Guide / Interview Script",
+      "prompt": "As a Senior UX Researcher, draft a semi-structured interview guide for {{duration}} minutes of moderated sessions. The study is about understanding how users currently {{task}}. The guide should have: 1. Warm-up/background questions 2. Core tasks & probing questions 3. Follow-ups to uncover motivations, pain points, and unmet needs 4. Wrap-up and closing questions. Make the tone conversational and avoid leading language."
+    },
+    {
+      "title": "Usability Testing Setup",
+      "prompt": "As a Senior UX Researcher, write a task script for a moderated usability test of {{product_feature}}. Tasks should be realistic, scenario-based, and help us evaluate ease of navigation, clarity of information, and error recovery. Include prompts for the facilitator to encourage think-aloud without biasing the participant."
+    },
+    {
+      "title": "Survey Design",
+      "prompt": "As a Senior UX Researcher, create a short survey ({{question_count}} questions) to measure user satisfaction with {{product_feature}}. Use a mix of Likert scales, multiple-choice, and open-ended questions. Ensure that the survey avoids double-barreled or leading questions, and that it balances quantitative and qualitative insights."
+    },
+    {
+      "title": "Synthesis & Theming",
+      "prompt": "As a Senior UX Researcher, synthesize findings from a set of user interviews about {{topic}}. Cluster raw notes into themes, highlight user quotes, and identify pain points, motivations, and opportunities. Present the insights in a way that is clear for cross-functional stakeholders (product managers, designers, engineers)."
+    },
+    {
+      "title": "Journey Mapping",
+      "prompt": "As a Senior UX Researcher, help me create a user journey map for {{persona}} performing {{task}}. Break it down into stages, touchpoints, emotions, pain points, and opportunities. Summarize the top 3 insights and actionable recommendations for the product team."
+    },
+    {
+      "title": "Executive Summary",
+      "prompt": "As a Senior UX Researcher, draft an executive summary of research findings from {{study_type}}. Keep it concise (1–2 pages), use non-technical language, and highlight the most critical insights, supported by 2–3 direct user quotes. Include recommendations that align with business goals."
+    },
+    {
+      "title": "Benchmarking / Metrics",
+      "prompt": "As a Senior UX Researcher, create a usability benchmark report for {{product_feature}}. Include SUS or NPS scoring, task completion rates, time on task, and error rates. Compare results to industry benchmarks if available and identify areas that need further iteration."
+    },
+    {
+      "title": "Stakeholder Communication",
+      "prompt": "As a Senior UX Researcher, write a clear stakeholder update email summarizing where we are in the research process, early signals we’re seeing, and what’s next. Tone should be professional but approachable, ensuring alignment across product, design, and engineering."
+    }
+  ]
+}
