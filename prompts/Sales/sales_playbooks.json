@@ -1,0 +1,46 @@
+{
+  "category": "Sales Productivity",
+  "description": "Prompts to help sales leaders and account executives accelerate pipeline generation, deal execution, and customer expansion.",
+  "prompts": [
+    {
+      "title": "Discovery Call Blueprint",
+      "prompt": "As a Strategic Account Executive, prepare a discovery call plan for {{prospect_role}} at {{company_name}}. Include research-backed hypotheses, probing questions, success metrics, and land-and-expand signals to listen for."
+    },
+    {
+      "title": "Outbound Sequence Design",
+      "prompt": "As a Sales Development Leader, design a personalized outreach sequence for {{buyer_persona}} in {{industry}}. Provide email, call, and social touch cadences, along with messaging pillars and value props tied to their goals."
+    },
+    {
+      "title": "Account Plan",
+      "prompt": "As a Strategic Seller, build a 360° account plan for {{account_name}}. Map org structure, champions, blockers, initiatives, and whitespace opportunities. Offer action items for next 30, 60, and 90 days."
+    },
+    {
+      "title": "Objection Handling Guide",
+      "prompt": "As a Sales Enablement Lead, create objection handling playbooks for the top concerns about {{product_or_feature}}: {{objections}}. Provide root cause, talk tracks, proof points, and discovery follow-ups."
+    },
+    {
+      "title": "Proposal Narrative",
+      "prompt": "As a Strategic Seller, craft a proposal narrative for {{solution_scope}}. Anchor on business outcomes, tie ROI to the buyer's KPIs, outline implementation approach, and include executive-ready summary slides."
+    },
+    {
+      "title": "Deal Risk Review",
+      "prompt": "As a Sales Manager, assess deal health for {{opportunity_name}} closing in {{close_month}}. Evaluate MEDDICC elements, stakeholder engagement, competitive pressure, and forecast confidence. Recommend recovery actions."
+    },
+    {
+      "title": "Expansion Play",
+      "prompt": "As a Customer Success Partner, develop a land-and-expand play for {{customer_name}}. Identify adoption signals, cross-sell opportunities, and executive engagement steps to unlock expansion."
+    },
+    {
+      "title": "Quarterly Business Review (QBR)",
+      "prompt": "As a Strategic Seller, outline a QBR deck for {{customer_name}}. Include value realized, roadmap alignment, usage insights, and a forward-looking success plan with mutually agreed next steps."
+    },
+    {
+      "title": "Forecast Scenario Planning",
+      "prompt": "As a Revenue Operations Lead, model forecast scenarios for {{quarter}}. Incorporate pipeline coverage, conversion rates, win velocity, and risk adjustments. Provide recommendations to hit target."
+    },
+    {
+      "title": "Channel Partner Enablement",
+      "prompt": "As a Partner Manager, produce an enablement kit for channel partners selling {{product}}. Include ideal customer profile, differentiation points, qualification checklist, and co-selling guidance."
+    }
+  ]
+}

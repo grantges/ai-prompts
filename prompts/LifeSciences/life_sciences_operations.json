@@ -1,0 +1,46 @@
+{
+  "category": "Life Sciences",
+  "description": "Prompts to support leaders in biotech, pharma, and medtech across research, clinical, regulatory, and commercialization workstreams.",
+  "prompts": [
+    {
+      "title": "Clinical Study Design",
+      "prompt": "As a Clinical Program Director, outline the study design for {{indication}} phase {{trial_phase}} trial. Include endpoints, population criteria, randomization scheme, and risk mitigation strategies."
+    },
+    {
+      "title": "Regulatory Strategy",
+      "prompt": "As a Regulatory Affairs Lead, craft a global regulatory strategy for {{product_or_therapy}}. Map required submissions, key agency interactions, timelines, and potential accelerated pathways."
+    },
+    {
+      "title": "CMC Readiness Plan",
+      "prompt": "As a CMC Lead, develop a chemistry, manufacturing, and controls readiness plan for {{program}}. Detail process validation, analytical methods, supply chain considerations, and documentation needs."
+    },
+    {
+      "title": "Medical Affairs Brief",
+      "prompt": "As a Medical Affairs Director, create a scientific communication plan for {{therapy}} ahead of {{conference_or_launch}}. Cover key messages, evidence gaps, KOL engagement, and publication roadmap."
+    },
+    {
+      "title": "Quality Management System",
+      "prompt": "As a Quality Leader, assess the QMS for {{site_or_program}} against ISO/GxP standards. Identify compliance gaps, CAPA actions, and digital tools to strengthen oversight."
+    },
+    {
+      "title": "Real-World Evidence Plan",
+      "prompt": "As an Evidence Generation Lead, propose a real-world evidence strategy to support {{indication}}. Include data sources, study designs, endpoints, and regulatory acceptance considerations."
+    },
+    {
+      "title": "Market Access Dossier",
+      "prompt": "As a Market Access Director, summarize the payer value story for {{therapy}} in {{region}}. Provide health economic models, budget impact assumptions, and policy watchpoints."
+    },
+    {
+      "title": "Portfolio Prioritization",
+      "prompt": "As a Life Sciences Strategy Lead, prioritize the R&D portfolio across {{therapeutic_area}} programs. Evaluate scientific risk, commercial opportunity, capital requirements, and partner options."
+    },
+    {
+      "title": "Lab Operations Optimization",
+      "prompt": "As an R&D Operations Manager, optimize lab operations for {{facility}}. Recommend process improvements, digital lab tools, compliance safeguards, and KPIs for productivity."
+    },
+    {
+      "title": "Post-Market Surveillance",
+      "prompt": "As a Pharmacovigilance Lead, design a post-market safety surveillance plan for {{product}}. Define signal detection processes, reporting cadence, and cross-functional coordination."
+    }
+  ]
+}

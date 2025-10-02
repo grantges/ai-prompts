@@ -1,0 +1,46 @@
+{
+  "category": "UX Strategy",
+  "description": "Prompts empowering UX leaders to connect customer insights with product strategy and organizational alignment.",
+  "prompts": [
+    {
+      "title": "Opportunity Assessment",
+      "prompt": "As a UX Strategist, evaluate the opportunity space around {{problem_area}}. Summarize competitive landscape, user demand signals, and business impact. Recommend where to invest and what to de-prioritize."
+    },
+    {
+      "title": "North Star Definition",
+      "prompt": "As a UX Strategist, help me craft a UX North Star narrative for {{product_line}}. Describe the future-state experience, critical capabilities, and the behavioral shifts we expect from users and internal teams."
+    },
+    {
+      "title": "Experience Roadmap",
+      "prompt": "As a UX Strategist, build a 12–18 month experience roadmap for {{product_or_feature}}. Plot major research, design, and delivery milestones; highlight dependencies; and note metrics to track progress."
+    },
+    {
+      "title": "Stakeholder Workshop",
+      "prompt": "As a UX Strategist, design a workshop that aligns stakeholders on the UX vision for {{initiative}}. Provide agenda, exercises, materials, and facilitation tips to drive decisions, not just discussion."
+    },
+    {
+      "title": "Maturity Assessment",
+      "prompt": "As a UX Strategist, assess the UX maturity of {{team_or_org}} across research, design, content, and operations. Identify strengths, gaps, and quick wins that unlock greater impact."
+    },
+    {
+      "title": "Portfolio Prioritization",
+      "prompt": "As a UX Strategist, recommend how to prioritize the UX project portfolio for {{quarter_or_year}}. Balance user value, business outcomes, and operational capacity. Provide a decision framework and RICE-style scoring example."
+    },
+    {
+      "title": "Service Blueprinting",
+      "prompt": "As a UX Strategist, help me draft a service blueprint for {{service_experience}}. Detail frontstage and backstage touchpoints, supporting systems, and breakdowns that create friction. Suggest opportunities for improvement."
+    },
+    {
+      "title": "Org Enablement Plan",
+      "prompt": "As a UX Strategist, create an enablement plan that equips {{team_or_org}} to deliver the desired experience. Include tooling, training, rituals, and measurement practices."
+    },
+    {
+      "title": "Executive Narrative",
+      "prompt": "As a UX Strategist, craft an executive-level narrative that explains why investing in {{experience_initiative}} matters now. Use data points, customer stories, and financial framing to secure sponsorship."
+    },
+    {
+      "title": "Experimentation Framework",
+      "prompt": "As a UX Strategist, define an experimentation framework for {{product_or_feature}}. Outline hypothesis templates, success metrics, guardrails, and governance to scale learning responsibly."
+    }
+  ]
+}

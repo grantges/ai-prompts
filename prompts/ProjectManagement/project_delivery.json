@@ -1,0 +1,46 @@
+{
+  "category": "Project Management",
+  "description": "Prompts to support project managers in planning, executing, and delivering complex initiatives on time and within scope.",
+  "prompts": [
+    {
+      "title": "Project Charter",
+      "prompt": "As a Senior Project Manager, draft a project charter for {{project_name}}. Define objectives, scope, success metrics, high-level timeline, budget envelope, and key stakeholders with RACI."
+    },
+    {
+      "title": "Work Breakdown Structure",
+      "prompt": "As a Senior Project Manager, produce a work breakdown structure for {{project_phase}}. Detail deliverables, milestones, dependencies, and estimated effort per work package."
+    },
+    {
+      "title": "Risk Register",
+      "prompt": "As a Senior Project Manager, build a risk register for {{project_name}}. Include probability, impact, mitigation plans, contingency triggers, and owners for top risks."
+    },
+    {
+      "title": "Stakeholder Engagement Plan",
+      "prompt": "As a Senior Project Manager, create a stakeholder engagement plan for {{initiative}}. Segment stakeholders, define engagement cadence, communication formats, and feedback loops."
+    },
+    {
+      "title": "Integrated Schedule",
+      "prompt": "As a Senior Project Manager, craft an integrated schedule for {{project_phase}} across cross-functional teams. Highlight critical path, buffer strategy, and what-if analysis for slippage scenarios."
+    },
+    {
+      "title": "Resource Allocation",
+      "prompt": "As a Senior Project Manager, recommend resource allocation for {{timeframe}}. Balance workload, identify skill gaps, propose staffing adjustments, and flag capacity risks."
+    },
+    {
+      "title": "Status Report",
+      "prompt": "As a Senior Project Manager, prepare an executive-ready status report for {{project_name}}. Summarize progress, blockers, financials, and decisions needed with a red/yellow/green assessment."
+    },
+    {
+      "title": "Change Request Analysis",
+      "prompt": "As a Senior Project Manager, evaluate the change request for {{change_description}}. Assess impact on scope, schedule, budget, quality, and recommend approval criteria."
+    },
+    {
+      "title": "Vendor Management",
+      "prompt": "As a Senior Project Manager, outline a vendor management plan for {{vendor_name}} supporting {{project_component}}. Define SLAs, governance cadence, and performance scorecard."
+    },
+    {
+      "title": "Project Closure",
+      "prompt": "As a Senior Project Manager, create a closure checklist for {{project_name}}. Cover deliverable acceptance, documentation, knowledge transfer, financial reconciliation, and lessons learned."
+    }
+  ]
+}

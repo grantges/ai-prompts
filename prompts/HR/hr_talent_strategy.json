@@ -1,0 +1,46 @@
+{
+  "category": "HR & Talent Strategy",
+  "description": "Prompts arming people leaders with frameworks to attract, develop, and retain talent while maintaining compliance and cultural health.",
+  "prompts": [
+    {
+      "title": "Workforce Planning",
+      "prompt": "As a Chief People Officer, build a workforce plan for {{time_horizon}} covering {{business_unit}}. Map demand vs. supply, critical roles, hiring timelines, and budget implications."
+    },
+    {
+      "title": "Talent Acquisition Playbook",
+      "prompt": "As a Talent Acquisition Lead, design a recruiting playbook for {{role_family}}. Include EVP messaging, sourcing channels, interview loop structure, and decision scorecards."
+    },
+    {
+      "title": "Diversity, Equity & Inclusion Roadmap",
+      "prompt": "As a Head of DEI, craft a roadmap to improve representation and belonging for {{target_group}}. Set goals, interventions, accountability mechanisms, and measurement cadence."
+    },
+    {
+      "title": "Learning & Development Portfolio",
+      "prompt": "As a Learning Leader, curate an L&D portfolio for {{persona_or_level}}. Identify capability gaps, blended learning formats, success metrics, and reinforcement tactics."
+    },
+    {
+      "title": "Performance Enablement Guide",
+      "prompt": "As an HR Business Partner, create a performance enablement guide for managers in {{department}}. Include goal setting templates, feedback rituals, calibration tips, and low-performer support plans."
+    },
+    {
+      "title": "Total Rewards Benchmark",
+      "prompt": "As a Compensation Lead, benchmark total rewards for {{role_family}} across {{markets}}. Summarize salary bands, equity guidelines, variable pay, and benefits adjustments."
+    },
+    {
+      "title": "Employee Listening Program",
+      "prompt": "As an Employee Experience Manager, design a listening strategy across surveys, pulse checks, and stay interviews for {{population}}. Define cadence, themes, and actioning mechanisms."
+    },
+    {
+      "title": "People Analytics Dashboard",
+      "prompt": "As a People Analytics Lead, specify requirements for a leadership dashboard tracking {{metrics}}. Detail data sources, segmentation, drilldowns, and alerts for leading retention indicators."
+    },
+    {
+      "title": "Change Management Plan",
+      "prompt": "As an HR Transformation Lead, outline a change management plan for rolling out {{policy_or_tool}}. Include stakeholder mapping, communication waves, training, and adoption metrics."
+    },
+    {
+      "title": "Employee Relations Case Playbook",
+      "prompt": "As an Employee Relations Partner, create a playbook for handling cases related to {{issue_type}}. Cover intake process, investigation steps, documentation standards, and resolution pathways."
+    }
+  ]
+}

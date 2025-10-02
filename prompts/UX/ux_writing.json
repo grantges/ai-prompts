@@ -1,0 +1,46 @@
+{
+  "category": "UX Writing",
+  "description": "Prompts to support senior UX writers in crafting clear, inclusive, and conversion-focused product content.",
+  "prompts": [
+    {
+      "title": "Voice & Tone Guide",
+      "prompt": "As a Senior UX Writer, craft a voice and tone guide tailored to {{product_or_feature}}. Describe when to use which tone, provide do/don't examples, and align guidance with brand values and accessibility standards."
+    },
+    {
+      "title": "Microcopy Exploration",
+      "prompt": "As a Senior UX Writer, generate microcopy options for {{ui_element}} that increase clarity and confidence. Offer at least three variations, note the intent of each, and flag any legal, compliance, or localization considerations."
+    },
+    {
+      "title": "Error State Messaging",
+      "prompt": "As a Senior UX Writer, write empathetic, actionable error messages for {{error_context}}. Provide primary and secondary guidance, explain the likely cause in plain language, and outline next steps users can take."
+    },
+    {
+      "title": "Onboarding Flow Script",
+      "prompt": "As a Senior UX Writer, script the onboarding flow for new users of {{product_or_feature}}. Sequence the messages, call out trigger points, and ensure each step reinforces user value while minimizing cognitive load."
+    },
+    {
+      "title": "Localization Ready Content",
+      "prompt": "As a Senior UX Writer, audit the copy for {{experience_scope}} to ensure it is localization-ready. Identify idioms, cultural references, or truncation risks. Provide guidance for translators and note text expansion constraints."
+    },
+    {
+      "title": "Conversion Optimization",
+      "prompt": "As a Senior UX Writer, suggest copy experiments for improving conversion at {{funnel_stage}}. Provide hypotheses, copy variants, and the metrics we should monitor to validate impact."
+    },
+    {
+      "title": "Empty State Content",
+      "prompt": "As a Senior UX Writer, craft copy for the empty state of {{feature}} that sets expectations, educates the user, and provides a clear next action. Include visual or interaction cues to complement the messaging."
+    },
+    {
+      "title": "Content Debt Audit",
+      "prompt": "As a Senior UX Writer, evaluate the existing product copy for {{product_or_feature}}. Highlight overlapping messaging, outdated terminology, and inconsistent patterns. Prioritize fixes with estimated effort and impact."
+    },
+    {
+      "title": "Regulatory Compliance",
+      "prompt": "As a Senior UX Writer, ensure the content for {{regulated_context}} complies with {{regulation}} requirements. Provide approved phrasing, disclaimers, and review steps with legal or compliance stakeholders."
+    },
+    {
+      "title": "Design Hand-off Documentation",
+      "prompt": "As a Senior UX Writer, prepare hand-off notes for the latest copy updates in {{experience_scope}}. Include intent, character limits, interaction states, and instrumentation guidance for analytics."
+    }
+  ]
+}

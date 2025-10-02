@@ -1,0 +1,46 @@
+{
+  "category": "CRM Productivity",
+  "description": "Prompts enabling CRM admins, RevOps, and customer teams to design data hygiene, automation, and adoption workflows that drive revenue outcomes.",
+  "prompts": [
+    {
+      "title": "Pipeline Hygiene Audit",
+      "prompt": "As a Senior RevOps Manager, assess CRM pipeline hygiene for {{sales_team}}. Identify duplicate records, stale stages, and missing fields. Recommend automations or enablement to keep data current."
+    },
+    {
+      "title": "Lifecycle Automation Design",
+      "prompt": "As a CRM Architect, design lifecycle automations for {{customer_journey_stage}}. Outline triggers, actions, ownership, and safeguards to prevent conflicting workflows."
+    },
+    {
+      "title": "Lead Scoring Model",
+      "prompt": "As a RevOps Strategist, craft a lead scoring model for {{buyer_persona}}. Use behavioral and firmographic signals, define point thresholds, and specify validation steps with sales and marketing stakeholders."
+    },
+    {
+      "title": "CRM Adoption Playbook",
+      "prompt": "As a CRM Program Manager, build an adoption playbook for {{team}} rolling out {{crm_feature}}. Include change narrative, training plan, enablement assets, and reinforcement metrics."
+    },
+    {
+      "title": "Data Governance Policy",
+      "prompt": "As a CRM Administrator, document governance policies for {{data_domain}}. Cover field standards, required data quality checks, ownership, and escalation processes."
+    },
+    {
+      "title": "Integration Blueprint",
+      "prompt": "As a CRM Solutions Architect, outline an integration blueprint between {{source_system}} and {{target_system}}. Detail data flows, sync cadence, conflict resolution, and monitoring approach."
+    },
+    {
+      "title": "Revenue Dashboard Requirements",
+      "prompt": "As a RevOps Analyst, gather requirements for an executive revenue dashboard. Define KPIs, filter views, drilldowns, and alert rules aligned with {{leadership_team}} priorities."
+    },
+    {
+      "title": "Customer Health Scoring",
+      "prompt": "As a Customer Success Operations Lead, design a health scoring framework for {{customer_segment}}. Select leading indicators, weighting logic, thresholds, and playbooks triggered by score changes."
+    },
+    {
+      "title": "Territory & Routing Plan",
+      "prompt": "As a RevOps Manager, produce a territory assignment and lead routing plan for {{fiscal_period}}. Balance coverage, capacity, and fairness, and include operational steps for deployment."
+    },
+    {
+      "title": "Compliance & Security Review",
+      "prompt": "As a CRM Admin, review {{crm_instance}} for compliance with {{regulation}}. Document permission structures, data retention policies, and remediation tasks."
+    }
+  ]
+}

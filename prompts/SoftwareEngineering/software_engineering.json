@@ -1,0 +1,46 @@
+{
+  "category": "Software Engineering",
+  "description": "Prompts enabling senior engineers to architect, deliver, and operate resilient software products.",
+  "prompts": [
+    {
+      "title": "Architecture Decision Record",
+      "prompt": "As a Staff Software Engineer, draft an ADR for designing {{system_component}}. Compare solution options, trade-offs, scalability considerations, and recommended path with next steps."
+    },
+    {
+      "title": "Technical Discovery",
+      "prompt": "As a Staff Software Engineer, outline a discovery plan for exploring {{technical_problem}}. Include key unknowns, research spikes, proof-of-concept milestones, and success criteria."
+    },
+    {
+      "title": "Implementation Plan",
+      "prompt": "As a Staff Software Engineer, break down the implementation plan for {{feature_or_epic}}. Provide sequence of tasks, parallelization opportunities, and integration checkpoints with other teams."
+    },
+    {
+      "title": "Code Review Checklist",
+      "prompt": "As a Staff Software Engineer, create a targeted code review checklist for changes in {{codebase_area}}. Emphasize correctness, security, performance, and maintainability heuristics."
+    },
+    {
+      "title": "Reliability Playbook",
+      "prompt": "As a Staff Software Engineer, compile reliability guidelines for {{service}}. Include SLO/SLA targets, alerting thresholds, runbooks, and escalation pathways."
+    },
+    {
+      "title": "Technical Debt Prioritization",
+      "prompt": "As a Staff Software Engineer, inventory technical debt in {{system}}. Score items by impact vs. effort, highlight risks, and propose a remediation roadmap."
+    },
+    {
+      "title": "Performance Optimization",
+      "prompt": "As a Staff Software Engineer, analyze performance bottlenecks for {{workload}}. Recommend profiling approach, optimization tactics, and regression monitoring."
+    },
+    {
+      "title": "Security Review",
+      "prompt": "As a Staff Software Engineer, conduct a security design review for {{feature}}. Identify threat vectors using STRIDE or similar, propose mitigations, and note compliance obligations."
+    },
+    {
+      "title": "Technical Onboarding",
+      "prompt": "As a Staff Software Engineer, design a 30-60-90 day onboarding plan for new engineers joining {{team_name}}. Cover tooling setup, learning resources, starter projects, and mentorship touchpoints."
+    },
+    {
+      "title": "Incident Postmortem",
+      "prompt": "As a Staff Software Engineer, draft a blameless postmortem for the incident impacting {{service}} on {{incident_date}}. Document timeline, root cause, contributing factors, customer impact, and preventative actions."
+    }
+  ]
+}

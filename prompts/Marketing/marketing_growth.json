@@ -1,0 +1,46 @@
+{
+  "category": "Marketing Acceleration",
+  "description": "Prompts to help marketing leaders plan data-driven campaigns, compelling content, and measurable growth programs.",
+  "prompts": [
+    {
+      "title": "Integrated Campaign Brief",
+      "prompt": "As a Marketing Director, develop an integrated campaign brief for {{initiative}}. Define objective, target personas, key message pillars, channels, timeline, and success metrics with leading indicators."
+    },
+    {
+      "title": "Content Strategy Roadmap",
+      "prompt": "As a Head of Content, create a quarterly content roadmap for {{audience_segment}}. Cover flagship pieces, nurture assets, distribution plan, and repurposing opportunities across owned and earned channels."
+    },
+    {
+      "title": "Demand Gen Funnel Diagnostics",
+      "prompt": "As a Growth Marketer, analyze the funnel for {{product}}. Highlight conversion drop-offs, recommend experiments to improve pipeline velocity, and tie each idea to projected impact."
+    },
+    {
+      "title": "Persona Refinement",
+      "prompt": "As a Marketing Strategist, refresh the buyer personas for {{market}} using insights from {{data_sources}}. Summarize goals, pain points, decision criteria, and preferred content formats."
+    },
+    {
+      "title": "Product Launch Plan",
+      "prompt": "As a Product Marketer, outline a go-to-market plan for launching {{feature}}. Include positioning, messaging hierarchy, enablement assets, launch timeline, and cross-functional roles."
+    },
+    {
+      "title": "Budget Allocation",
+      "prompt": "As a Marketing Operations Lead, recommend budget allocation for {{quarter}} across brand, demand, lifecycle, and experimentation. Justify investments with ROI assumptions and risk mitigations."
+    },
+    {
+      "title": "ABM Play Design",
+      "prompt": "As an ABM Leader, craft an account-based play targeting {{account_list}}. Map value narratives, executive engagement tactics, personalized content ideas, and measurement plan."
+    },
+    {
+      "title": "Lifecycle Nurture Optimization",
+      "prompt": "As a Lifecycle Marketer, optimize the nurture journey for {{persona}} from lead to customer. Recommend sequencing, personalization triggers, and content upgrades to increase activation."
+    },
+    {
+      "title": "Brand Health Report",
+      "prompt": "As a Brand Strategist, compile a brand health report for {{brand}}. Synthesize sentiment data, share of voice, key narratives, and recommendations to strengthen positioning."
+    },
+    {
+      "title": "Experimentation Backlog",
+      "prompt": "As a Growth Leader, build an experimentation backlog for {{channel_or_program}}. Prioritize tests using ICE or PIE scoring, define hypotheses, and outline instrumentation requirements."
+    }
+  ]
+}

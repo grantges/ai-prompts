@@ -1,0 +1,46 @@
+{
+  "category": "Product Management",
+  "description": "Prompts empowering product managers to define vision, prioritize work, and deliver impactful experiences.",
+  "prompts": [
+    {
+      "title": "Product Vision Narrative",
+      "prompt": "As a Principal Product Manager, craft a compelling product vision for {{product_or_problem_space}}. Describe the customer promise, differentiated value, and how it ladders to company strategy."
+    },
+    {
+      "title": "Opportunity Assessment",
+      "prompt": "As a Principal Product Manager, evaluate the opportunity for {{idea_or_feature}}. Size TAM/SAM/SOM, analyze competitors, and recommend whether to pursue, pivot, or pause."
+    },
+    {
+      "title": "Outcome-Based Roadmap",
+      "prompt": "As a Principal Product Manager, build an outcome-focused roadmap for the next {{time_horizon}}. Organize initiatives by customer outcomes, business metrics, and delivery sequencing."
+    },
+    {
+      "title": "Prioritization Framework",
+      "prompt": "As a Principal Product Manager, create a prioritization framework for backlog items in {{product_area}}. Compare RICE, MoSCoW, and custom scoring, then apply to the top {{item_count}} items."
+    },
+    {
+      "title": "Product Requirements Document (PRD)",
+      "prompt": "As a Principal Product Manager, draft a PRD for {{feature}}. Include problem statement, user stories, acceptance criteria, success metrics, guardrails, and cross-team dependencies."
+    },
+    {
+      "title": "Beta Program Plan",
+      "prompt": "As a Principal Product Manager, design a beta program for {{feature}}. Define participant criteria, onboarding process, feedback loops, exit criteria, and communication cadences."
+    },
+    {
+      "title": "Metrics & Instrumentation",
+      "prompt": "As a Principal Product Manager, identify north-star and counter metrics for {{product_area}}. Propose instrumentation requirements, dashboards, and review rituals to ensure data quality."
+    },
+    {
+      "title": "Pricing & Packaging",
+      "prompt": "As a Principal Product Manager, recommend pricing and packaging updates for {{product}}. Analyze willingness-to-pay signals, segment needs, competitive benchmarks, and rollout considerations."
+    },
+    {
+      "title": "Stakeholder Alignment",
+      "prompt": "As a Principal Product Manager, outline a stakeholder alignment plan for {{initiative}}. Map concerns, tailor messaging, schedule touchpoints, and set decision timelines."
+    },
+    {
+      "title": "Experiment Backlog",
+      "prompt": "As a Principal Product Manager, compile an experiment backlog to validate assumptions about {{product_or_feature}}. Provide hypotheses, success metrics, and guardrails for each experiment."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "category": "Finance Excellence",
+  "description": "Prompts enabling finance leaders and FP&A teams to drive forecasting accuracy, capital efficiency, and strategic insight across the business.",
+  "prompts": [
+    {
+      "title": "Rolling Forecast Refresh",
+      "prompt": "As a Head of FP&A, update the rolling forecast for {{time_horizon}} considering {{key_drivers}}. Provide revenue, expense, and EBITDA outlook with scenario sensitivities."
+    },
+    {
+      "title": "Variance Analysis",
+      "prompt": "As a Finance Business Partner, prepare a variance analysis for {{business_unit}} comparing {{period}} actuals vs. plan. Highlight root causes, quantify impact, and recommend corrective actions."
+    },
+    {
+      "title": "Cash Flow Dashboard",
+      "prompt": "As a Corporate Treasurer, design a weekly cash flow dashboard for {{company_name}}. Include inflow/outflow categories, liquidity thresholds, and early warning signals."
+    },
+    {
+      "title": "Capital Allocation Memo",
+      "prompt": "As a CFO, draft a capital allocation recommendation for investing in {{initiative}}. Model ROI, payback, and strategic trade-offs versus alternative uses of capital."
+    },
+    {
+      "title": "Board Update",
+      "prompt": "As a CFO, create a board-ready financial update covering performance highlights, risks, covenant compliance, and asks for support. Keep it concise, visual, and aligned to strategic priorities."
+    },
+    {
+      "title": "Cost Optimization Playbook",
+      "prompt": "As a Finance Leader, identify cost optimization opportunities within {{department_or_vendor_category}}. Segment spend, quantify savings potential, and outline implementation considerations."
+    },
+    {
+      "title": "Scenario Planning",
+      "prompt": "As an FP&A Manager, model best, base, and downside scenarios for {{planning_period}} based on assumptions about {{key_variables}}. Provide trigger points for revisiting the plan."
+    },
+    {
+      "title": "Policy & Controls Review",
+      "prompt": "As a Controller, assess financial controls for {{process}}. Benchmark against COSO/ICFR standards, note gaps, and propose remediation steps with ownership and timeline."
+    },
+    {
+      "title": "Investor Relations Narrative",
+      "prompt": "As an Investor Relations Lead, craft the earnings call narrative for {{quarter}} results. Emphasize growth drivers, margin dynamics, guidance, and Q&A prep."
+    },
+    {
+      "title": "Procurement Strategy",
+      "prompt": "As a Procurement Director, design a sourcing strategy for {{category}}. Analyze supplier landscape, negotiation levers, risk profiles, and compliance requirements."
+    }
+  ]
+}

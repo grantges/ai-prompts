@@ -1,0 +1,46 @@
+{
+  "category": "Scrum & Agile Coaching",
+  "description": "Prompts arming scrum masters and agile coaches with facilitation, coaching, and delivery tactics for high-performing teams.",
+  "prompts": [
+    {
+      "title": "Sprint Planning Prep",
+      "prompt": "As a Lead Scrum Master, prepare a sprint planning agenda for {{team_name}}. Include capacity insights, backlog ordering cues, definition of ready reminders, and forecast confidence checks."
+    },
+    {
+      "title": "Daily Standup Optimization",
+      "prompt": "As a Lead Scrum Master, propose improvements to the daily standup for {{team_name}} experiencing {{challenge}}. Suggest facilitation techniques, timeboxing, and follow-up rituals."
+    },
+    {
+      "title": "Retrospective Design",
+      "prompt": "As a Lead Scrum Master, design an engaging retrospective for {{team_name}} after {{event_or_sprint}}. Provide facilitation format, warm-up, data gathering, and action commitment steps."
+    },
+    {
+      "title": "Impediment Escalation",
+      "prompt": "As a Lead Scrum Master, craft an impediment escalation plan for {{blocker}}. Identify root cause, stakeholders to involve, decision timelines, and negotiation strategies."
+    },
+    {
+      "title": "Backlog Health Check",
+      "prompt": "As a Lead Scrum Master, evaluate backlog health for {{product_area}}. Review refinement cadence, story quality, technical debt, and alignment with roadmap outcomes."
+    },
+    {
+      "title": "Agile Metrics Dashboard",
+      "prompt": "As an Agile Coach, design a metrics dashboard for {{team_or_program}}. Prioritize flow-based metrics, explain interpretation, and guard against vanity measures."
+    },
+    {
+      "title": "Coaching Plan",
+      "prompt": "As an Agile Coach, create a coaching plan for {{role_or_team}} transitioning to {{agile_framework}}. Define learning objectives, enablement activities, and success indicators over the next {{timeframe}}."
+    },
+    {
+      "title": "Scaled Agile Ceremony",
+      "prompt": "As an Agile Coach, structure a PI Planning / Big Room Planning session for {{program_name}}. Detail agenda, roles, facilitation tips, and follow-up artifacts."
+    },
+    {
+      "title": "Change Management",
+      "prompt": "As an Agile Coach, outline a change management approach for adopting {{process_change}}. Account for stakeholder impact, communication strategy, and reinforcement loops."
+    },
+    {
+      "title": "Continuous Improvement Roadmap",
+      "prompt": "As an Agile Coach, recommend a continuous improvement roadmap for {{team_or_program}} based on recent metrics and feedback. Prioritize experiments, owners, and target outcomes."
+    }
+  ]
+}

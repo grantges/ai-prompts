@@ -1,0 +1,46 @@
+{
+  "category": "UX Design",
+  "description": "Prompts to guide senior UX designers through strategy, ideation, and delivery of user-centered solutions.",
+  "prompts": [
+    {
+      "title": "Design Strategy Alignment",
+      "prompt": "As a Senior UX Designer, help me align the design vision for {{product_or_feature}} with our business goals and user needs. Outline key user segments, top scenarios to support, and measurable UX outcomes. Suggest a phased approach for delivering value fast without sacrificing quality."
+    },
+    {
+      "title": "Persona Development",
+      "prompt": "As a Senior UX Designer, assist me in creating actionable personas for users of {{product_or_feature}}. Use available data points such as {{data_sources}} to describe motivations, behaviors, and pain points. Translate each persona into design principles and opportunities."
+    },
+    {
+      "title": "Information Architecture",
+      "prompt": "As a Senior UX Designer, map the optimal information architecture for {{experience_scope}}. Provide navigation hierarchies, labeling recommendations, and rationale rooted in user mental models. Call out any potential findability or comprehension risks."
+    },
+    {
+      "title": "Wireframe Planning",
+      "prompt": "As a Senior UX Designer, outline the critical screens and interaction patterns for {{scenario}}. For each screen, describe layout priorities, content hierarchy, and key UI components to include in the low-fidelity wireframes. Flag assumptions that need validation."
+    },
+    {
+      "title": "Design Critique Preparation",
+      "prompt": "As a Senior UX Designer, prepare a structured critique agenda for the latest iteration of {{product_or_feature}}. Highlight problem statements, intended user outcomes, and unresolved questions. Provide criteria for assessing usability, desirability, and feasibility."
+    },
+    {
+      "title": "Accessibility Review",
+      "prompt": "As a Senior UX Designer, evaluate the current designs for {{experience_scope}} against WCAG 2.2 AA requirements. Identify high-risk accessibility gaps, recommend remediation approaches, and suggest inclusive design considerations for edge cases."
+    },
+    {
+      "title": "Design System Guidance",
+      "prompt": "As a Senior UX Designer, advise on applying our design system to {{product_or_feature}}. Recommend components, interaction patterns, and variants to use or extend. If gaps exist, outline the contribution process and documentation needs."
+    },
+    {
+      "title": "Prototype Planning",
+      "prompt": "As a Senior UX Designer, help me scope a prototype for testing {{hypothesis}}. Define fidelity level, critical flows, and data needed. Suggest the best prototyping tool and how to instrument qualitative or quantitative feedback."
+    },
+    {
+      "title": "Cross-Functional Alignment",
+      "prompt": "As a Senior UX Designer, draft a plan to align product, engineering, and stakeholders around the proposed solution for {{product_or_feature}}. Include artifacts to share, meeting format, decision points, and follow-up actions to maintain momentum."
+    },
+    {
+      "title": "Experience KPI Tracking",
+      "prompt": "As a Senior UX Designer, identify experience metrics that show whether {{experience_scope}} creates user value. Recommend leading and lagging indicators, instrumentation methods, and how to socialize results with leadership."
+    }
+  ]
+}
