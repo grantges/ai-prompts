@@ -1,8 +1,6 @@
-# (Yet Another Prompt Library)
-
-[github link](https://github.com/grantges/yapl)
-
 A curated collection of best-in-class productivity prompts spanning UX, go-to-market, product, engineering, and regulated industries. Each prompt set lives in JSON for easy ingestion into prompt management tooling, with companion guides that explain how to apply them.
+
+# [Yet Another Prompt Library](https://github.com/grantges/yapl)
 
 ## Library Overview
 - [UX](docs/UX.md) — Research, design, strategy, and writing prompts for experience teams.
