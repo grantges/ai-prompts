@@ -1,3 +1,5 @@
+#Yet Another Prompt Library
+
 A curated collection of best-in-class productivity prompts spanning UX, go-to-market, product, engineering, and regulated industries. Each prompt set lives in JSON for easy ingestion into prompt management tooling, with companion guides that explain how to apply them.
 
 ## Library Overview
